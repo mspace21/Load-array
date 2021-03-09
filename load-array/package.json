@@ -1,0 +1,14 @@
+{
+  "name": "load-array",
+  "version": "1.0.0",
+  "description": "Load array for words in .txt files",
+  "main": "load-array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ".txt"
+  ],
+  "author": "mspace21",
+  "license": "ISC"
+}

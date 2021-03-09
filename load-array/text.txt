@@ -1,0 +1,10 @@
+this
+is
+a
+sample
+txt
+file
+for
+the
+program
+yes
